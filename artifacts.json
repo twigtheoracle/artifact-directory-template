@@ -1,5 +1,5 @@
 {
-    "this-repository": "https://github.com/DSC180-RC/artifact-directory-template.git",
+    "this-repository": "https://github.com/twigtheoracle/artifact-directory-template.git",
     "project-repository": "https://github.com/DSC180-RC/Rock-Climbing-Recommender.git",
     "dockerhub-repository": "twigtheoracle/dsc180b-rc-rec:latest",
     "project-website-url": "https://dsc180b-rc-rec.herokuapp.com/",
