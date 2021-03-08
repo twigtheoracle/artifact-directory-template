@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+OnSight: Outdoor Rock Climbing Recommendations
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Recommendations for outdoor rock climbing has historically been limited to word of mouth, guide books, and most popular climbs. We aim to change that with our project OnSight, offering personalized recommendations for outdoor rock climbers.
